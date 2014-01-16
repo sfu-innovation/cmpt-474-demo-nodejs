@@ -1,0 +1,9 @@
+{
+	"name": "ca.sfu.courses.cmpt.474.demo.nodejs",
+	"version": "0.0.1",
+	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
+	"dependencies": {
+		"express": ">=3.0.0",
+		"redis": ">=0.10.0"
+	}
+}
